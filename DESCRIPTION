@@ -1,0 +1,9 @@
+Package: Julito
+Title: CALCULOS FINANCIEROS BASICOS
+Version: 0.0.0.9000
+Author: Carlos Donado, cf.donado@uniandes.edu.co
+Description: This package helps with some financial calculations and works with online data from yahoo finance.
+Depends: R (>= 3.4.4)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
